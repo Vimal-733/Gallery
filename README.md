@@ -226,7 +226,8 @@ Publish the website in the given URL.
 # OUTPUT:
 ![1](https://github.com/user-attachments/assets/2e6f4367-c992-4266-914a-012db3639762)
 ![Screenshot 2024-12-15 221119](https://github.com/user-attachments/assets/e83ff078-f564-419b-a3e6-3d3a09be7203)
-![Uploading Screenshot 2024-12-15 221128.png…]()
+![Screenshot 2024-12-15 221128](https://github.com/user-attachments/assets/0e1dda32-0588-4761-b386-559ec9673734)
+
 
 
 # RESULT:
